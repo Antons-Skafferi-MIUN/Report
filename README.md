@@ -1,6 +1,7 @@
 # Report
 https://dahlgren.miun.se/rapportmall/
-The raport will be written in LibreOffice.
+
+The report will be written in LibreOffice.
 
 ## Naming convention
 /[subject]/[subject]_[name].odt
