@@ -14,3 +14,15 @@ The report will be written in LibreOffice / OpenOffice.
 ## Heading nr 2, font FreeSans,  font-size: 14
 ### Heading nr 3, font FreeSans,  font-size: 12
 Textbody,     font FreeSerif, font-size: 12
+
+
+# Assigned tasks
+Below is the responsibilities for writing parts of the report.
+Send to Lukas when done.
+
+## Labs
+https://w3.miun.se/dt170g/lab/  
+
+* Anders,David,Joakim,Mattias,Mikael and Sandra lab 1
+* Jonathan, Malik och Rosen lab 2
+* Lukas, Maria, Simon och Viktor lab 3
