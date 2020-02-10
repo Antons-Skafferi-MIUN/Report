@@ -2,4 +2,4 @@
 https://dahlgren.miun.se/rapportmall/
 
 ## Naming convention
-/theory/theory_[name].odt
+/[subject]/[subject]_[name].odt
