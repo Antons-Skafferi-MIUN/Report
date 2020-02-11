@@ -11,10 +11,14 @@ The report will be written in LibreOffice / OpenOffice.
 [Referensguide for Vancouver](https://tools.kib.ki.se/referensguide/vancouver/)
 
 # Heading nr 1, font FreeSans,  font-size: 22
-## Heading nr 2, font FreeSans,  font-size: 14, Your name
-### Heading nr 3, font FreeSans,  font-size: 12, Sprints
-Textbody,     font FreeSerif, font-size: 12
-
+## Heading nr 2, font FreeSans,  font-size: 14
+### Heading nr 3, font FreeSans,  font-size: 12
+Textbody,     font FreeSerif, font-size: 12  
+Example in reflection:
+# Individual Reflection title
+## Simon
+### Planning
+vad jag gjort i planning fasen.
 
 # Assigned tasks
 Below is the responsibilities for writing parts of the report.
