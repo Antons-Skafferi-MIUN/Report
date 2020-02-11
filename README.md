@@ -8,7 +8,7 @@ The report will be written in LibreOffice / OpenOffice.
 
 /theory/theory_viktor.odt
 
-[Referensguide for Vancouver](https://tools.kib.ki.se/referensguide/vancouver/)
+[Referensguide for Vancouver](https://tools.kib.ki.se/referensguide/vancouver/)  
 Language: English  
 # Heading nr 1, font FreeSans,  font-size: 22
 ## Heading nr 2, font FreeSans,  font-size: 14
