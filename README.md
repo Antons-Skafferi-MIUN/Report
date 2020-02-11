@@ -27,6 +27,6 @@ Send to Lukas when done.
 ## Labs
 https://w3.miun.se/dt170g/lab/  
 
-* Anders,David,Joakim,Mattias,Mikael and Sandra lab 1
+* Anders,David,Joakim,Mattias,Lukas and Sandra lab 1
 * Jonathan, Malik och Rosen lab 2
-* Lukas, Maria, Simon och Viktor lab 3
+* Mikael, Maria, Simon och Viktor lab 3
