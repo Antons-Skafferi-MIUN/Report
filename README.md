@@ -14,12 +14,6 @@ Language: English
 ## Heading nr 2, font FreeSans,  font-size: 14
 ### Heading nr 3, font FreeSans,  font-size: 12
 Textbody,     font FreeSerif, font-size: 12  
-Example in reflection:
-# Individual Reflection title
-## Simon
-### sprint 0
-what you have done in sprint 0.
-
 # Assigned tasks
 Below is the responsibilities for writing parts of the report.
 Send to Lukas when done.
