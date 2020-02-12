@@ -25,6 +25,14 @@ https://w3.miun.se/dt170g/lab/
 * Jonathan, Malik,Lukas,Mattias Rosen lab 2
 * Mikael, Maria, Simon och Viktor lab 3
 
+# Adding a dictionary to LibreOffice
+1. Download the dict-en-20200201.oxt file in this repository.  
+2. Open LibreOffice  
+3. Press ctrl+alt+e, click "add" and find your dict-en-20200201.oxt file.  
+4. Restart LibreOffice
+
+
+
 # Code highlighting in LibreOffice
 
 ## Installation
