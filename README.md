@@ -3,7 +3,8 @@ https://dahlgren.miun.se/rapportmall/
 
 The report will be written in LibreOffice / OpenOffice.
 # Install the correct fonts.
-The template provided by Miun uses FreeSans and FreeSerif. Make sure your version of Libreoffice has these installed.  
+The template provided by Miun uses FreeSans and FreeSerif. Make sure your version of Libreoffice has these installed. 
+You can easily check these by typing in "FreeSans" as the font name in Libreoffice. If you do not get auto complete you don't have the font installed.
 For Linux distributions using pacman this is solved by sudo pacman -S gnu-free-fonts.
 
 ## Naming convention
