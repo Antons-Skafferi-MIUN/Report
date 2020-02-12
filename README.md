@@ -15,6 +15,7 @@ Language: English
 ### Heading nr 3, font FreeSans,  font-size: 12
 Textbody,     font FreeSerif, font-size: 12  
 Code,    font Source Code Pro Medium, font-size: 10
+
 [Repo for Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 
 ## Text Box Style:
@@ -25,6 +26,7 @@ Code,    font Source Code Pro Medium, font-size: 10
 
 ## Text Box Padding:
 Format, Text Box and Shape, Text Attributes...
+
 Spacing to Border:   0,30cm (all categories)
 
 # Assigned tasks
