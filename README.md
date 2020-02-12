@@ -24,3 +24,20 @@ https://w3.miun.se/dt170g/lab/
 * Anders,David,Joakim, and Sandra lab 1
 * Jonathan, Malik,Lukas,Mattias Rosen lab 2
 * Mikael, Maria, Simon och Viktor lab 3
+
+# Code highlighting in LibreOffice
+
+## Installation
+1. Close LibreOffice
+2. Install python3
+3. sudo pip3 install pygments
+4. [Download and launch](https://extensions.libreoffice.org/extensions/code-highlighter/1.6/@@download/file/codehighlighter.oxt)
+
+## Usage
+1. Insert a new Text Box (Insert -> Text Box) 
+   Copy and paste/write your code snippet into the text box (You can choose any fonts based on your preference)
+2. Select the text box
+3. Go to Tools -> Highlight Code (Default style) -> Language of the code
+
+
+[Further instructions](https://extensions.libreoffice.org/extensions/code-highlighter)
