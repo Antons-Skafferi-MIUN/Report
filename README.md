@@ -27,11 +27,8 @@ https://w3.miun.se/dt170g/lab/
 
 # Adding a dictionary to LibreOffice
 1. Download the dict-en-20200201.oxt file in this repository.  
-2. Open LibreOffice  
-3. Press ctrl+alt+e, click "add" and find your dict-en-20200201.oxt file.  
-4. Restart LibreOffice
-
-
+2. Double click dict-en-20200201.oxt to install.  
+3. Restart LibreOffice
 
 # Code highlighting in LibreOffice
 
