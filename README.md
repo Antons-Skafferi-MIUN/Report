@@ -42,7 +42,7 @@ https://w3.miun.se/dt170g/lab/
 1. Insert a new Text Box (Insert -> Text Box) 
    Copy and paste/write your code snippet into the text box (You can choose any fonts based on your preference)
 2. Select the text box
-3. Go to Tools -> Highlight Code (Default style) -> Language of the code
+3. Go to Tools -> Highlight Code (Default style) -> Java
 
 
 [Further instructions](https://extensions.libreoffice.org/extensions/code-highlighter)
