@@ -2,6 +2,9 @@
 https://dahlgren.miun.se/rapportmall/
 
 The report will be written in LibreOffice / OpenOffice.
+# Install the correct fonts.
+The template provided by Miun uses FreeSans and FreeSerif. Make sure your version of Libreoffice has these installed.  
+For Linux distributions using pacman this is solved by sudo pacman -S gnu-free-fonts.
 
 ## Naming convention
 /[subject]/[subject]_[name].odt
@@ -14,7 +17,6 @@ Language: English
 ## Heading nr 2, font FreeSans,  font-size: 14
 ### Heading nr 3, font FreeSans,  font-size: 12
 Textbody,     font FreeSerif, font-size: 12  
-
 Code,    font Source Code Pro Medium, font-size: 10
 
 [Repo for Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
