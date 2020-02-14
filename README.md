@@ -8,9 +8,9 @@ You can easily check these by typing in "FreeSans" as the font name in Libreoffi
 For Linux distributions using pacman this is solved by sudo pacman -S gnu-free-fonts.
 
 ## Naming convention
-/[subject]/[subject]_[name].odt
+/[subject]/[name]_[subject].odt
 
-/theory/theory_viktor.odt
+/theory/viktor_theory.odt
 
 [Referensguide for Vancouver](https://tools.kib.ki.se/referensguide/vancouver-en/)  
 Language: English  
