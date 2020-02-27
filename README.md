@@ -22,6 +22,20 @@ Code,    font Source Code Pro Medium, font-size: 10
 
 [Repo for Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 
+## Page size and margins:
+It's highly recommended to use the same page size and margins that the report template uses,
+so that there are no formatting issues when your texts are being incorporated into the main project report.
+In order to edit the necessary values in libreoffice to achieve this;
+Right-click the document you are writing, and click on "Page...".
+In this window under "Paper format", make sure that "A4" is selected in the dropdown table, and that the
+"Width" is = 8.27", and "Height" is = 11.69".
+
+Then under "Margins", make sure you have the following values for the margins:
+"Left" = 1.46"
+"Right" = 1.46"
+"Top" = 0.79"
+"Bottom" = 0.53"
+
 ## Text Box Style:
 * Line Style: Continuous
 * Line Width: 0,00cm
